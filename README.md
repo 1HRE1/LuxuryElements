@@ -3,7 +3,7 @@
  * GOALS:
     - Showcase artist's pieces & collections
     - Promote artist couture brand
-    - No prices; only artwork
+    - No prices; only artwork. Client wants art gallery style feel.
  * END USER: 
     - Artist would like for end user to be able to view couture pieces via images & videos. 
     - Consumer should be easily directed to e-commerce partner site where pieces are exclusively available for direct purchase.
@@ -17,7 +17,7 @@
     - Special animated intro 
     - NFT's: Artist would like to gift an NFT with every purchase. 
     - Will need to incorporate OpenSea profile, with directions for consumer in simple layman's terms. 
-#### Market Survey | References | Special Notes
+### Market Survey | References | Special Notes
  * Similar websites to compare/contrast:
     - [Rock on A Lens](https://www.notjustalabel.com/rock-lens) - Similar artist who does one-of-a-kind pieces. 
     - [The Met Haute Couture](https://www.metmuseum.org/toah/hd/haut/hd_haut.html) - Client would like an "art-gallery" feel to the website, such as this.
