@@ -1,7 +1,14 @@
-# Company: LuxuryElements
-## Client Project: 
-    - GOAL: Build LuxuryElements.com, a fully functional website to showcase artist's work and promote brand.
-    - END USER: Artist would like for end user to be able to view pieces and collections, via images and videos. However, this website is only to showcase the artist and her wearable couture art pieces; all items are available exclusively on one e-commerce website for direct sale, so will need to link product pages of e-commerce website, to artist showcase website.
-
+# Client Project | Company: LuxuryElements
+## LuxuryElements.com will be a fully functional website to showcase couture artist.(\n)Per interview with artist-client, the below outlines preferences and desires:
+    - GOALS:
+        - Showcase artist's pieces & collections
+        - Promote artist couture brand
+        - No prices; only artwork
+    - END USER: 
+        - Artist would like for end user to be able to view couture pieces via images & videos. 
+        - Consumer should be easily directed to e-commerce site where pieces are exclusively available for direct purchase.
+### MVP's & Extra Feature Requests:
+    - Minimum Viables:
+        - 
 
 
